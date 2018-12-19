@@ -14,4 +14,176 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GAssert.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GAutoName.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GCert.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GConfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GError.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GExcel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GException.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GImportExcel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GImportTxt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GLog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GObjectInputs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GParam.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GPath.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GPlugins.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GPreErrorCode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GRequestVO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GRunTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GSpecialCharacter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GSys.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GTestCase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GText.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GTime.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GTransfer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GTSNO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GUncommonCharacter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GUser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GValue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GAssert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GAutoName.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GCert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GConfig.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GError.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GExcel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GException.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GImportExcel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GImportTxt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GLog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GObjectInputs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GParam.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GPath.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GPlugins.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GPreErrorCode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GRequestVO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GRunTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GSpecialCharacter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GSys.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GTestCase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GText.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GTime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GTransfer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GTSNO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GUncommonCharacter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GUser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GValue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

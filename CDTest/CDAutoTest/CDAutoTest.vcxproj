@@ -18,6 +18,66 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GAssert.h" />
+    <ClInclude Include="GAutoName.h" />
+    <ClInclude Include="GCert.h" />
+    <ClInclude Include="GConfig.h" />
+    <ClInclude Include="GError.h" />
+    <ClInclude Include="GExcel.h" />
+    <ClInclude Include="GException.h" />
+    <ClInclude Include="GFile.h" />
+    <ClInclude Include="GImportExcel.h" />
+    <ClInclude Include="GImportTxt.h" />
+    <ClInclude Include="GLog.h" />
+    <ClInclude Include="GObjectInputs.h" />
+    <ClInclude Include="GParam.h" />
+    <ClInclude Include="GPath.h" />
+    <ClInclude Include="GPlugins.h" />
+    <ClInclude Include="GPreErrorCode.h" />
+    <ClInclude Include="GRequestVO.h" />
+    <ClInclude Include="GRunTest.h" />
+    <ClInclude Include="GSpecialCharacter.h" />
+    <ClInclude Include="GSys.h" />
+    <ClInclude Include="GTestCase.h" />
+    <ClInclude Include="GText.h" />
+    <ClInclude Include="GTime.h" />
+    <ClInclude Include="GTransfer.h" />
+    <ClInclude Include="GTSNO.h" />
+    <ClInclude Include="GUncommonCharacter.h" />
+    <ClInclude Include="GUser.h" />
+    <ClInclude Include="GValue.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GAssert.cpp" />
+    <ClCompile Include="GAutoName.cpp" />
+    <ClCompile Include="GCert.cpp" />
+    <ClCompile Include="GConfig.cpp" />
+    <ClCompile Include="GError.cpp" />
+    <ClCompile Include="GExcel.cpp" />
+    <ClCompile Include="GException.cpp" />
+    <ClCompile Include="GFile.cpp" />
+    <ClCompile Include="GImportExcel.cpp" />
+    <ClCompile Include="GImportTxt.cpp" />
+    <ClCompile Include="GLog.cpp" />
+    <ClCompile Include="GObjectInputs.cpp" />
+    <ClCompile Include="GParam.cpp" />
+    <ClCompile Include="GPath.cpp" />
+    <ClCompile Include="GPlugins.cpp" />
+    <ClCompile Include="GPreErrorCode.cpp" />
+    <ClCompile Include="GRequestVO.cpp" />
+    <ClCompile Include="GRunTest.cpp" />
+    <ClCompile Include="GSpecialCharacter.cpp" />
+    <ClCompile Include="GSys.cpp" />
+    <ClCompile Include="GTestCase.cpp" />
+    <ClCompile Include="GText.cpp" />
+    <ClCompile Include="GTime.cpp" />
+    <ClCompile Include="GTransfer.cpp" />
+    <ClCompile Include="GTSNO.cpp" />
+    <ClCompile Include="GUncommonCharacter.cpp" />
+    <ClCompile Include="GUser.cpp" />
+    <ClCompile Include="GValue.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{2441BD74-A326-4F61-96A6-3F1FC4151A21}</ProjectGuid>
     <RootNamespace>CDAutoTest</RootNamespace>
